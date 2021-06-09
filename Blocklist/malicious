@@ -11,6 +11,24 @@
 #https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/adservers.txt
 #
 #Malicious (Advertising, Maleware, Porn, Tracking & Telemetry)
+0.0.0.0 ssl.gstatic.com
+0.0.0.0 www.shopbop.com
+0.0.0.0 www.bestgamesvault.com
+0.0.0.0 askins-floymous.com
+0.0.0.0 www.onlinergpgeek.com
+0.0.0.0 veration-cellyric.com
+0.0.0.0 api.etorostatic.com
+0.0.0.0 cdn1-l-ha-e11.mdhcdn.com
+0.0.0.0 cdn1-s-ha-e15.mdhcdn.com
+0.0.0.0 www.blogger.com
+0.0.0.0 etoro-cdn.etorostatic.com
+0.0.0.0 redrhino-static.casinomodule.com
+0.0.0.0 cam4-images.xcdnpro.com
+0.0.0.0 condles-temark.com
+0.0.0.0 ape-htc.isappcloud.com
+0.0.0.0 tvpnlogopeu.samsungcloud.tv
+0.0.0.0 joxi.imgsrcdata.com
+0.0.0.0 addline-entersus.com
 0.0.0.0 etoro-production.s3.amazonaws.com
 0.0.0.0 spocs.getpocket.com
 0.0.0.0 ipecho.net
