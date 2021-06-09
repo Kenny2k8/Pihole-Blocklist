@@ -13,7 +13,6 @@
 #Malicious (Advertising, Maleware, Porn, Tracking & Telemetry)
 0.0.0.0 etoro-production.s3.amazonaws.com
 0.0.0.0 spocs.getpocket.com
-0.0.0.0 ipecho.net
 0.0.0.0 www.trackip.net
 0.0.0.0 checkip.amazonaws.com
 0.0.0.0 cdn-products.eneba.com
