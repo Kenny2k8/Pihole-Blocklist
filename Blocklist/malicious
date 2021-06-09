@@ -13,8 +13,13 @@
 #Malicious (Advertising, Maleware, Porn, Tracking & Telemetry)
 0.0.0.0 etoro-production.s3.amazonaws.com
 0.0.0.0 spocs.getpocket.com
+0.0.0.0 ipecho.net
+0.0.0.0 icanhazip.com
+0.0.0.0 www.trackip.net
+0.0.0.0 checkip.amazonaws.com
 0.0.0.0 cdn-products.eneba.com
 0.0.0.0 www2.pic-upload.de
+0.0.0.0 ww2.vuedsply.com
 0.0.0.0 mc.yandex.ru
 0.0.0.0 ln.gamesrevenue.com
 0.0.0.0 theonlygames.com
@@ -36,7 +41,6 @@
 0.0.0.0 bestanimegame.com
 0.0.0.0 tvpnlogopeu.samsungcloud.tv
 0.0.0.0 r.hooliganapps.com
-0.0.0.0 alt5-mtalk.google.com
 0.0.0.0 www.easymarkets.com
 0.0.0.0 ape-htc.isappcloud.com
 0.0.0.0 paidonlinesites.com
@@ -44,15 +48,14 @@
 0.0.0.0 bitcoincasinogroup.com
 0.0.0.0 www.bitcoincasino.us
 0.0.0.0 9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net
-0.0.0.0 pages.etoro.com	
-0.0.0.0 chn.easymarkets.com	
-0.0.0.0 paidonlinesites.com
+0.0.0.0 pages.etoro.com
+0.0.0.0 chn.easymarkets.com
 0.0.0.0 js.gameops.tech
 0.0.0.0 rustream.tv
 0.0.0.0 streamtv.by
 0.0.0.0 streamtv.ge
 0.0.0.0 streamtv.kz
-0.0.0.0	ssp.omeridus.com
+0.0.0.0 ssp.omeridus.com
 0.0.0.0 storage.omeridus.com
 0.0.0.0 eye.omeridus.com
 0.0.0.0 cno.jerkmate.com
@@ -82,10 +85,6 @@
 0.0.0.0 bots-api.kik.com
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 datarouter.ol.epicgames.com
-0.0.0.0 checkip.amazonaws.com
-0.0.0.0 icanhazip.com
-0.0.0.0 www.trackip.net
-0.0.0.0 ipecho.net
 0.0.0.0 exdynsrv.com
 0.0.0.0 myexternalip.com
 0.0.0.0 ping.avast.com
@@ -99,9 +98,7 @@
 0.0.0.0 makebitcoins.de
 0.0.0.0 s.gravatar.com
 0.0.0.0 firetvcaptiveportal.com
-0.0.0.0 ww2.vuedsply.com
 0.0.0.0 s.w.org
-0.0.0.0 www.gstatic.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 a.gosudate.com
 0.0.0.0 shepherd.ff.avast.com
@@ -141,13 +138,11 @@
 0.0.0.0 reallifecam.com
 0.0.0.0 api.etoro.com
 0.0.0.0 marketing.etorostatic.com
-0.0.0.0 etoro-cdn.etorostatic.com
 0.0.0.0 etorostatic.com
 0.0.0.0 desonator-essimits.icu
 0.0.0.0 bestgamesvault.com
 0.0.0.0 eacdn.com
 0.0.0.0 go.etoro.com
-0.0.0.0 onlinergpgeek.com
 0.0.0.0 www.etoro.com
 0.0.0.0 8a1ccf65f2b1302.com
 0.0.0.0 450373683b84.com
@@ -166,10 +161,9 @@
 0.0.0.0 f5178aec06cc.com
 0.0.0.0 fapttians.com
 0.0.0.0 fapttens.com
-0.0.0.0	fapttans.com
+0.0.0.0 fapttans.com
 0.0.0.0 faptitains.com
 0.0.0.0 5b1cd20a44adf.com
-0.0.0.0 455e036e18.com
 0.0.0.0 d68c360796bbecd.com
 0.0.0.0 thenewfling.com
 0.0.0.0 liebeflirts.com
@@ -415,7 +409,6 @@
 0.0.0.0 tcrn.ch
 0.0.0.0 goshrink.com
 0.0.0.0 DecentURL.com
-0.0.0.0 decenturl.com
 0.0.0.0 zi.ma
 0.0.0.0 1link.in
 0.0.0.0 sharetabs.com
@@ -457,8 +450,8 @@
 0.0.0.0 kutt.it
 #Huawai
 0.0.0.0 connectivitycheck.platform.hicloud.com
-0.0.0.0 store2.hispace.hicloud.com	 
-0.0.0.0 store3.hispace.hicloud.com	
+0.0.0.0 store2.hispace.hicloud.com
+0.0.0.0 store3.hispace.hicloud.com
 0.0.0.0 grs.dbankcloud.eu.home
 0.0.0.0 grs.dbankcloud.eu
 0.0.0.0 grs.dbankcloud.com
@@ -467,7 +460,6 @@
 0.0.0.0 openapi5.dbank.com
 0.0.0.0 appoptimize-dra.dbankcdn.com.home
 0.0.0.0 appdl2.dbankcdn.com
-0.0.0.0 grs.dbankcloud.com
 0.0.0.0 grs.dbankcloud.asia
 0.0.0.0 pushtrs6.push.hicloud.com
 0.0.0.0 metrics-dra.dt.hicloud.com
