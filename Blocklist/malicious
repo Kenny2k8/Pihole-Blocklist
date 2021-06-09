@@ -11,6 +11,11 @@
 #https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/adservers.txt
 #
 #Malicious (Advertising, Maleware, Porn, Tracking & Telemetry)
+0.0.0.0 appleid.cdn-apple.com
+0.0.0.0 media.tenor.com
+0.0.0.0 lp.cdn.gamesassists.com
+0.0.0.0 assets.hollywoodclicker.com
+0.0.0.0 hollywoodclicker.com
 0.0.0.0 ssl.gstatic.com
 0.0.0.0 www.shopbop.com
 0.0.0.0 www.bestgamesvault.com
