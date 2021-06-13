@@ -1,7 +1,4 @@
 #=====================================
-#
-# Title: Misc Block Hosts
-#
 #Windows 10 Telemetry Soruces
 #
 #https://www.golem.de/news/windows-microsoft-stuft-blockieren-von-telemetrie-als-bedrohung-ein-2008-150058.html
@@ -11,6 +8,14 @@
 #https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/adservers.txt
 #
 #Malicious (Advertising, Maleware, Porn, Tracking & Telemetry)
+0.0.0.0 connect-drcn.hispace.hicloud.com
+0.0.0.0 h5hosting.dbankcdn.com	
+0.0.0.0 mobilenetworkscoring-pa.googleapis.com
+0.0.0.0 xtrapath2.izatcloud.net	
+0.0.0.0 etoro-px.s3-eu-west-1.amazonaws.com
+0.0.0.0 pipeline-incoming-prod-elb-149169523.us-west-2.elb.amazonaws.com	
+0.0.0.0 assets.playful-fairies.com	
+0.0.0.0 www.cuntempire.com
 0.0.0.0 appleid.cdn-apple.com
 0.0.0.0 media.tenor.com
 0.0.0.0 lp.cdn.gamesassists.com
