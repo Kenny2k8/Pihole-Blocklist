@@ -7,6 +7,29 @@
 #https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/adservers.txt
 #
 #Malicious (Advertising, Maleware, Porn, Tracking & Telemetry)
+0.0.0.0 sitecheck.opera.com
+0.0.0.0 cdn.plyr.io
+0.0.0.0 node--celia.vivo.sx
+0.0.0.0 ip-info.ff.avast.com
+0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 auth.ff.avast.com
+0.0.0.0 ncc.avast.com
+0.0.0.0 fonts.gstatic.com
+0.0.0.0 st.chatango.com
+0.0.0.0 appsrv.display.io
+0.0.0.0 ls.srvcs.tumblr.com
+0.0.0.0 speeddials.opera.com
+0.0.0.0 mobilemaps.googleapis.com
+0.0.0.0 encrypted-tbn1.gstatic.com
+0.0.0.0 subscriptionsmanagement-pa.googleapis.com
+0.0.0.0 notifications-pa.googleapis.com
+0.0.0.0 unpkg.com
+0.0.0.0 global.stun.twilio.com
+0.0.0.0 signal.netu.tv
+0.0.0.0 wss.netu.tv
+0.0.0.0 h4ahsm.cfeucdn.com
+0.0.0.0 cdn-s8.cfeucdn.com
+0.0.0.0 encrypted-tbn3.gstatic.com
 0.0.0.0 connect-drcn.hispace.hicloud.com
 0.0.0.0 h5hosting.dbankcdn.com	
 0.0.0.0 mobilenetworkscoring-pa.googleapis.com
