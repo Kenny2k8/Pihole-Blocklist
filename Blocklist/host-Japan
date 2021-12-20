@@ -1,0 +1,210 @@
+#Source https://hosts.gameindustry.eu/nihon-no-toshi/
+
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+#fe80::1%lo0	localhost
+
+# 一般に使用される通常のサービス
+
+# Bootstrap
+#0.0.0.0 maxcdn.bootstrapcdn.com
+
+# Readspeaker
+#0.0.0.0 f1-as.readspeaker.com
+#0.0.0.0 cdn1.readspeaker.com
+
+# Twitter
+0.0.0.0 syndication.twitter.com
+#0.0.0.0 platform.twitter.com
+0.0.0.0 cdn.syndication.twimg.com # コールバック
+0.0.0.0 syndication.twitter.com # ピクセル
+#0.0.0.0 abs.twimg.com # 絵文字
+#0.0.0.0 ton.twimg.com # シンジケート束
+#0.0.0.0 pbs.twimg.com # グラフィックス
+
+# Google
+#0.0.0.0 www.google.com # クリアドット, ブランド
+#0.0.0.0 translate.google.com
+#0.0.0.0 translate.googleapis.com
+#0.0.0.0 ajax.googleapis.com
+#0.0.0.0 clients1.google.com # 204
+
+# Line
+0.0.0.0 torimochi.line-apps.com # ページビューとクッキー
+#0.0.0.0 d.line-scdn.net #  ウィジェット
+#0.0.0.0 social-plugins.line.me # 共有ボタン
+#0.0.0.0 media.line.me # ボタン
+
+# Facebook
+# 追跡、ピクセルとコールバック、グラフ
+0.0.0.0 www.facebook.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 scontent.fiev2-1.fna.fbcdn.net # グラフィックス
+0.0.0.0 external.fiev2-1.fna.fbcdn.net # グラフィックス
+
+# Transer
+# *.transer.com
+
+# Wikipedia
+#0.0.0.0 ja.wikipedia.org
+
+# 今やスパイウェアやトラッキングサービスを含む都市
+
+# さいたま市 | Saitama City | www.city.saitama.jp
+0.0.0.0 www.google-analytics.com # UA-46664515-1
+
+# 千葉市 | Hiroshima City | www.city.hiroshima.lg.jp
+0.0.0.0 stats.g.doubleclick.net # UA-58955748-1
+0.0.0.0 www.google-analytics.com # UA-46664515-1
+
+# 京都市 | Kyoto City | www.city.kyoto.lg.jp
+0.0.0.0 www.google-analytics.com # UA-64531150-1
+0.0.0.0 stats.g.doubleclick.net # UA-64531150-1
+0.0.0.0 sc.city.kyoto.lg.jp
+
+# 川崎市 | Kawasaki City | www.city.kawasaki.jp
+0.0.0.0 www.google-analytics.com # UA-35087877-1
+0.0.0.0 cse.google.com # 銘柄
+
+# 神戸市 | Kobe City | www.city.kobe.lg.jp
+0.0.0.0 www.google-analytics.com # UA-45880858-1
+0.0.0.0 stats.g.doubleclick.net # UA-45880858-1
+
+# 福岡市 | Fukuoka City | www.city.fukuoka.lg.jp
+0.0.0.0 www.googletagmanager.com # UA-28296973-1
+0.0.0.0 www.google-analytics.com # UA-28296973-1
+0.0.0.0 cse.google.com # 銘柄
+
+# 札幌市 | Sapporo City | www.city.sapporo.jp
+0.0.0.0 www.google-analytics.com # UA-4462629-3
+0.0.0.0 torimochi.line-apps.com # ページビューとクッキー
+#0.0.0.0 d.line-scdn.net
+0.0.0.0 connect.facebook.net
+0.0.0.0 www.facebook.com
+
+# 名古屋市 | Nagoya City | www.city.nagoya.jp
+0.0.0.0 www.google-analytics.com # UA-66410500-1
+0.0.0.0 cse.google.com
+
+# 大阪市 | Osaka City | www.city.osaka.lg.jp
+0.0.0.0 ma001.sibulla.com
+0.0.0.0 www.google-analytics.com # UA-68277760-1
+0.0.0.0 www.google.com # 銘柄
+
+# 横浜市 | Yokohama City | www.city.yokohama.lg.jp
+0.0.0.0 cse.google.com
+0.0.0.0 clients1.google.com
+
+# 仙台市 | Sendai City | www.city.sendai.jp
+0.0.0.0 www.google-analytics.com # UA-45960761-1
+
+# 千葉市 | Chiba City | www.city.chiba.jp
+0.0.0.0 stats.g.doubleclick.net # UA-23752667-3
+0.0.0.0 www.google-analytics.com # UA-23752667-3
+#0.0.0.0 abs.twimg.com # Emoji
+#0.0.0.0 ton.twimg.com # Syndication Bundle
+#0.0.0.0 pbs.twimg.com # Graphics
+0.0.0.0 cdn.syndication.twimg.com # Callback
+0.0.0.0 syndication.twitter.com # Pixel
+0.0.0.0 connect.facebook.net
+0.0.0.0 www.facebook.com
+
+# 北九州市 | Kitakyushu City | www.city.kitakyushu.lg.jp
+0.0.0.0 cse.google.com
+0.0.0.0 www.google-analytics.com # UA-21446535-1
+#0.0.0.0 faq-call-center-city-kitakyushu.dga.jp
+
+# 世田谷区 | Setagaya City | www.city.setagaya.lg.jp
+0.0.0.0 ssl.google-analytics.com # UA-34308366-1
+0.0.0.0 fonts.gstatic.com
+#0.0.0.0 platform.twitter.com
+0.0.0.0 syndication.twitter.com
+
+# 室蘭市 | Muroran City | www.city.muroran.lg.jp
+0.0.0.0 syndication.twitter.com
+0.0.0.0 cdn.syndication.twimg.com
+#0.0.0.0 pbs.twimg.com
+#0.0.0.0 platform.twitter.com
+0.0.0.0 www.google-analytics.com # UA-75853414-1
+
+# 恵庭市 | Eniwa City | www.city.eniwa.hokkaido.jp
+0.0.0.0 connect.facebook.net
+0.0.0.0 www.google-analytics.com # UA-76452661-2
+0.0.0.0 cse.google.com
+
+# 千歳市 | Chitose City | www.city.chitose.lg.jp
+0.0.0.0 connect.facebook.net
+0.0.0.0 www.google-analytics.com # UA-96555137-1
+#0.0.0.0 translate.google.com
+#0.0.0.0 translate.googleapis.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 www.facebook.com
+#0.0.0.0 www.lg-waps.jp
+
+# 釧路市 | Kushiro City | www.city.kushiro.lg.jp
+0.0.0.0 stats.g.doubleclick.net # UA-6021470-12
+0.0.0.0 www.google-analytics.com # UA-6021470-12
+0.0.0.0 ssl.google-analytics.com # UA-34647429-1
+0.0.0.0 www.googletagmanager.com # GTM-W75DPF
+0.0.0.0 cse.google.com
+
+# 苫小牧市 | Tomakomai City | www.city.tomakomai.hokkaido.jp
+0.0.0.0 www.google-analytics.com # UA-47275923-1
+0.0.0.0 cse.google.com
+
+# 小樽市 | Otaru | www.city.otaru.lg.jp
+#0.0.0.0 www.city.otaru.lg.jp.e.go.hp.transer.com
+
+# 相模原市 | Sagamihara City | www.city.sagamihara.kanagawa.jp
+# 下の広告： http://www.city.sagamihara.kanagawa.jp/_res/common/ads/top/*
+0.0.0.0 www.googletagmanager.com # UA-44444847-1
+0.0.0.0 www.google-analytics.com # UA-44444847-1
+0.0.0.0 stats.g.doubleclick.net # UA-44444847-1
+
+# 藤沢市 | Fujisawa City | www.city.fujisawa.kanagawa.jp
+0.0.0.0 www.google-analytics.com # UA-54741666-1
+
+# 横須賀市 | Yokosuka City | www.city.yokosuka.kanagawa.jp
+0.0.0.0 www.google-analytics.com # UA-17762664-1
+0.0.0.0 stats.g.doubleclick.net # UA-17762664-1
+0.0.0.0 syndication.twitter.com
+0.0.0.0 cdn.syndication.twimg.com
+#0.0.0.0 ton.twimg.com
+#0.0.0.0 pbs.twimg.com
+#0.0.0.0 platform.twitter.com
+
+# 平塚市 | Hiratsuka City | www.city.hiratsuka.kanagawa.jp
+0.0.0.0 www.google-analytics.com # UA-27067685-1
+0.0.0.0 cse.google.com
+0.0.0.0 stats.g.doubleclick.net # UA-27067685-1
+0.0.0.0 connect.facebook.net
+0.0.0.0 www.facebook.com
+0.0.0.0 syndication.twitter.com
+#0.0.0.0 platform.twitter.com
+
+# 茅ヶ崎市 | Chigasaki City | www.city.chigasaki.kanagawa.jp
+0.0.0.0 ssl.google-analytics.com # UA-9458458-4
+#0.0.0.0 hps.transer.com
+0.0.0.0 cse.google.co.jp
+#0.0.0.0 platform.twitter.com
+0.0.0.0 syndication.twitter.com
+0.0.0.0 cdn.syndication.twimg.com
+#0.0.0.0 pbs.twimg.com
+
+# 大和市 | Yamato City | www.city.yamato.lg.jp
+0.0.0.0 ewb-c.infocreate.co.jp # PTSPK
+0.0.0.0 cse.google.com
+#0.0.0.0 d.line-scdn.net
+0.0.0.0 torimochi.line-apps.com
+#0.0.0.0 social-plugins.line.me
+#0.0.0.0 platform.twitter.com
+0.0.0.0 syndication.twitter.com
