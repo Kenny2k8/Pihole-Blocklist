@@ -5,6 +5,9 @@
 #AD-Servers Soruce 
 #https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/adservers.txt
 #Malicious (Advertising, Maleware, Porn, Tracking & Telemetry, cdn)
+0.0.0.0 teespring.com
+0.0.0.0 mockup-api.teespring.com
+0.0.0.0 vangogh.teespring.com
 0.0.0.0 ncc.avast.com
 0.0.0.0 auth.ff.avast.com
 0.0.0.0 ip-info.ff.avast.com
