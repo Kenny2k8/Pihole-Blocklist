@@ -1,0 +1,228 @@
+#Source https://hosts.gameindustry.eu/amazon-com-inc/
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+255.255.255.255 broadcasthost
+::1 localhost
+127.0.0.1 local
+::1 ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+#fe80::1%lo0 localhost
+
+# Überwachung
+0.0.0.0 autoscaling.us-east-1.amazonaws.com
+0.0.0.0 autoscaling.us-west-1.amazonaws.com
+0.0.0.0 autoscaling.us-west-2.amazonaws.com
+0.0.0.0 autoscaling.us-gov-west-1.amazonaws.com
+
+# Automatisierung
+0.0.0.0 codedeploy.us-east-1.amazonaws.com
+0.0.0.0 codedeploy.us-west-2.amazonaws.com
+
+# Selbsterklärend
+0.0.0.0 config.us-east-1.amazonaws.com
+
+# Verschlüsselung mit FIPS Lvl3
+0.0.0.0 cloudhsm.us-east-1.amazonaws.com
+0.0.0.0 cloudhsm.us-west-2.amazonaws.com
+
+# Cloudmodellierung
+0.0.0.0 cloudformation.us-east-1.amazonaws.com
+0.0.0.0 cloudformation.us-west-1.amazonaws.com
+0.0.0.0 cloudformation.us-west-2.amazonaws.com
+
+# CDN & API
+0.0.0.0 cloudfront.amazonaws.com
+
+# Verwaltung/Regierung, Betriebs &/ Risikoprüfung
+0.0.0.0 cloudtrail.us-east-1.amazonaws.com
+0.0.0.0 cloudtrail.us-west-1.amazonaws.com
+0.0.0.0 cloudtrail.us-west-2.amazonaws.com
+0.0.0.0 cloudtrail.sa-east-1.amazonaws.com
+0.0.0.0 cloudtrail.us-gov-west-1.amazonaws.com
+
+# Cloudsuche für Webseiten oder Anwendungen
+0.0.0.0 cloudsearch.us-east-1.amazonaws.com
+0.0.0.0 cloudsearch.us-west-1.amazonaws.com
+0.0.0.0 cloudsearch.us-west-2.amazonaws.com
+
+# Client Bibliothek und Sync von Nutzerdaten
+0.0.0.0 cognito-sync.us-east-1.amazonaws.com
+
+# Zugriffskontrolle
+0.0.0.0 cognito-identity.us-east-1.amazonaws.com
+
+# Verarbeitung und Verschieben von Daten
+0.0.0.0 datapipeline.us-east-1.amazonaws.com
+0.0.0.0 datapipeline.us-west-2.amazonaws.com
+
+# Netzwerkdienst S3, EC2, VPC
+0.0.0.0 directconnect.us-east-1.amazonaws.com
+0.0.0.0 directconnect.us-west-1.amazonaws.com
+0.0.0.0 directconnect.us-west-2.amazonaws.com
+
+# NoSQL-Datenbankservice
+0.0.0.0 dynamodb.us-east-1.amazonaws.com
+0.0.0.0 dynamodb.us-west-1.amazonaws.com
+0.0.0.0 dynamodb.us-west-2.amazonaws.com
+0.0.0.0 dynamodb.sa-east-1.amazonaws.com
+0.0.0.0 dynamodb.us-gov-west-1.amazonaws.com
+
+# Elastic Container Service
+0.0.0.0 ecs.us-east-1.amazonaws.com
+0.0.0.0 ecs.us-west-2.amazonaws.com
+0.0.0.0 ec2.us-east-1.amazonaws.com
+0.0.0.0 ec2.us-west-1.amazonaws.com
+0.0.0.0 ec2.us-west-2.amazonaws.com
+0.0.0.0 ec2.sa-east-1.amazonaws.com
+0.0.0.0 ec2.us-gov-west-1.amazonaws.com
+
+# Skalierung und Bereitstellung von Anwendungen
+0.0.0.0 elasticbeanstalk.us-west-1.amazonaws.com
+0.0.0.0 elasticbeanstalk.us-east-1.amazonaws.com
+0.0.0.0 elasticbeanstalk.us-west-2.amazonaws.com
+
+# Clusterplattform und BigData Verwaltung
+0.0.0.0 elasticmapreduce.us-east-1.amazonaws.com
+0.0.0.0 elasticmapreduce.us-west-1.amazonaws.com
+0.0.0.0 elasticmapreduce.sa-east-1.amazonaws.com
+0.0.0.0 elasticmapreduce.us-west-2.amazonaws.com
+0.0.0.0 elasticmapreduce.us-gov-west-1.amazonaws.com
+
+# Speicher & Cachedienst
+0.0.0.0 elasticache.us-east-1.amazonaws.com
+0.0.0.0 elasticache.us-west-1.amazonaws.com
+0.0.0.0 elasticache.us-west-2.amazonaws.com
+
+# Steuerung von Anwendungsverkehr EC2, Container Ips, Lambda
+0.0.0.0 elasticloadbalancing.us-east-1.amazonaws.com
+0.0.0.0 elasticloadbalancing.us-west-1.amazonaws.com
+0.0.0.0 elasticloadbalancing.us-west-2.amazonaws.com
+0.0.0.0 elasticloadbalancing.us-gov-west-1.amazonaws.com
+
+# Medienkonverter
+0.0.0.0 elastictranscoder.us-east-1.amazonaws.com
+0.0.0.0 elastictranscoder.us-west-1.amazonaws.com
+0.0.0.0 elastictranscoder.us-west-2.amazonaws.com
+
+# Echtzeitanalyse, IoT, Überwachung
+# 143.204.15.65, 52.222.150.238, 52.222.150.80, 52.94.204.95, 52.222.150.220, 131.255.7.86, 103.120.66.52, 103.107.196.180
+0.0.0.0 firehose.eu-central-1.amazonaws.com
+0.0.0.0 firehose.us-east-1.amazonaws.com
+0.0.0.0 firehose.ap-northeast-1.amazonaws.com
+0.0.0.0 firehose.ap-southeast-2.amazonaws.com
+
+# Zusammen mit S3 Glacier Deep Datenarchivierung und Sicherheitskopien
+0.0.0.0 glacier.us-east-1.amazonaws.com
+0.0.0.0 glacier.us-west-1.amazonaws.com
+0.0.0.0 glacier.us-west-2.amazonaws.com
+0.0.0.0 glacier.us-gov-west-1.amazonaws.com
+
+# Identitäts und Zugangsverwaltung
+0.0.0.0 iam.amazonaws.com
+
+# ?
+0.0.0.0 importexport.amazonaws.com
+
+# Analyse und Erfassung von Daten in Echtzeit, Streaming, Insights | Schnittstelle z.b. für Lambda
+0.0.0.0 kinesis.us-east-1.amazonaws.com
+0.0.0.0 kinesis.us-west-2.amazonaws.com
+0.0.0.0 kinesis.ap-northeast-1.amazonaws.com
+
+# Schlüsselverwaltung
+0.0.0.0 kms.us-east-1.amazonaws.com
+0.0.0.0 kms.us-west-1.amazonaws.com
+0.0.0.0 kms.us-west-2.amazonaws.com
+0.0.0.0 kms.us-gov-west-1.amazonaws.com
+
+# Verwarbeitung und Skalierung von Inhalten - Schnittstellen für Kinesis, DynamoDB
+0.0.0.0 lambda.us-east-1.amazonaws.com
+0.0.0.0 lambda.us-west-2.amazonaws.com
+
+# Selbsterklärend
+0.0.0.0 logs.us-east-1.amazonaws.com
+0.0.0.0 logs.us-west-2.amazonaws.com
+
+# Analyse von Bildern und Video, Empfehlungen, Text,- Dokumentenanalyse, Stimmen, Übersetzung, Suche - Bereitstellung von Werkzeugen & AI Service
+0.0.0.0 machinelearning.us-east-1.amazonaws.com
+
+# Insights, Observierung und Überwachung
+0.0.0.0 monitoring.us-west-1.amazonaws.com
+0.0.0.0 monitoring.us-east-1.amazonaws.com
+0.0.0.0 monitoring.sa-east-1.amazonaws.com
+0.0.0.0 monitoring.us-west-2.amazonaws.com
+0.0.0.0 monitoring.us-gov-west-1.amazonaws.com
+
+# Programm,- und Serververwaltung
+0.0.0.0 opsworks.us-east-1.amazonaws.com
+
+# Datenbankskalierung und Automatisierung
+0.0.0.0 rds.us-east-1.amazonaws.com
+0.0.0.0 rds.us-west-1.amazonaws.com
+0.0.0.0 rds.us-west-2.amazonaws.com
+0.0.0.0 rds.us-gov-west-1.amazonaws.com
+
+# BigData Plattform
+0.0.0.0 redshift.us-east-1.amazonaws.com
+0.0.0.0 redshift.us-west-2.amazonaws.com
+0.0.0.0 redshift.us-gov-west-1.amazonaws.com
+
+# Domainsystem
+0.0.0.0 route53.amazonaws.com
+0.0.0.0 route53domains.us-east-1.amazonaws.com
+
+# Selbsterklärend
+0.0.0.0 email.us-east-1.amazonaws.com
+0.0.0.0 email.us-west-2.amazonaws.com
+
+# S3
+#0.0.0.0 s3.amazonaws.com
+0.0.0.0 s3-us-west-1.amazonaws.com
+0.0.0.0 s3-us-west-2.amazonaws.com
+0.0.0.0 s3-us-gov-west-1.amazonaws.com
+
+# Datenbankservice S3, EC2, Metadaten
+0.0.0.0 sdb.amazonaws.com
+0.0.0.0 sdb.us-west-1.amazonaws.com
+0.0.0.0 sdb.us-west-2.amazonaws.com
+
+# Notification, SMS Service
+0.0.0.0 sns.us-east-1.amazonaws.com
+0.0.0.0 sns.us-west-1.amazonaws.com
+0.0.0.0 sns.us-west-2.amazonaws.com
+0.0.0.0 sns.us-gov-west-1.amazonaws.com
+
+# Skalierung Mikrodienste, serverlose Anwendungen, Nachrichtendienst
+0.0.0.0 sqs.us-east-1.amazonaws.com
+0.0.0.0 sqs.us-west-1.amazonaws.com
+0.0.0.0 sqs.us-west-2.amazonaws.com
+0.0.0.0 sqs.us-gov-west-1.amazonaws.com
+
+# Virtuelle EC2 Instanzen
+0.0.0.0 ssm.us-east-1.amazonaws.com
+0.0.0.0 ssm.us-west-2.amazonaws.com
+
+# Cache von Daten in einer lokalen VM
+0.0.0.0 storagegateway.us-east-1.amazonaws.com
+0.0.0.0 storagegateway.us-west-1.amazonaws.com
+0.0.0.0 storagegateway.us-west-2.amazonaws.com
+
+# Security token Service
+0.0.0.0 sts.amazonaws.com
+
+# Selbsterklärend
+0.0.0.0 support.us-east-1.amazonaws.com
+
+# Skalierung und Analyse von Hintergrunddiensten
+0.0.0.0 swf.us-east-1.amazonaws.com
+0.0.0.0 swf.us-west-1.amazonaws.com
+0.0.0.0 swf.us-west-2.amazonaws.com
+0.0.0.0 swf.us-gov-west-1.amazonaws.com
+
+# Desktop as a Service Oo
+0.0.0.0 workspaces.us-east-1.amazonaws.com
+0.0.0.0 workspaces.us-west-2.amazonaws.com
